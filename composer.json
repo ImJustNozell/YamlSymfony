@@ -1,16 +1,16 @@
 {
-    "name": "nozell/yamlsymfony",
-    "type": "library",
-    "license": "Apache 2.0",
-    "autoload": {
+  "name": "nozell/yamlsymfony",
+  "type": "library",
+  "license": "Apache-2.0",
+  "autoload": {
       "psr-0": {
-        "Symfony\\Component\\Yaml\\": "src/"
+          "Symfony\\Component\\Yaml\\": "src/"
       }
-    },
-    "extra": {
+  },
+  "extra": {
       "virion": {
-        "spec": "3.0",
-        "namespace-root": "Symfony\\Component\\Yaml"
+          "spec": "3.0",
+          "namespace-root": "Symfony\\Component\\Yaml"
       }
-    }
   }
+}
