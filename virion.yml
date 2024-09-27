@@ -1,0 +1,5 @@
+name: YamlSymfony
+author: Nozell
+api: 5.0.0
+version: 1.0.0
+antigen: Symfony\Component\Yaml
